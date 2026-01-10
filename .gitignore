@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+.python-version
+# Conda files
+.conda/
+
+# Databases & Data (Crucial for DuckDB)
+*.db
+*.duckdb
+*.sqlite
+data/
+
+# OS specific
+.DS_Store
