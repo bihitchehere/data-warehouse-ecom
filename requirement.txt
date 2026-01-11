@@ -3,3 +3,4 @@ duckdb
 psycopg2-binary
 sqlalchemy
 python-dotenv
+faker
